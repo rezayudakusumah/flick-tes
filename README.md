@@ -1,3 +1,15 @@
+# Task yang diselesaikan
+-Get API (axios) data "Berlangganan" dari local server menggunakan json server dengan port 3004.
+-Hero section static page
+-Login page
+-Register page
+-Berlangganan page
+-Integrasi dengan firebase untuk melakukan registrasi dengan email
+-Integrasi dengan firebase untuk melakukan sign in
+-validate form email saat registrasi
+-menggunakan redux(store, dispatch, reducer) untuk state global
+-menggunakan redux-thunk untuk asyncronous function pada firebase
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
